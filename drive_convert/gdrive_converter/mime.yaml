@@ -1,0 +1,8 @@
+html: text/html
+zip: application/zip
+txt: text/plain
+rtf: application/rtf
+odt: application/vnd.oasis.opendocument.text
+pdf: application/pdf
+docx: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+epub: pplication/epub+zip
